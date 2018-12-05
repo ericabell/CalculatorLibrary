@@ -1,0 +1,6 @@
+[flake8]
+exclude =
+  .git,
+  __pycache__,
+  calculator
+max-complexity = 10
